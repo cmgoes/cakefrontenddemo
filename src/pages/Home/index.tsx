@@ -39,7 +39,7 @@ const navItems = [
     content:
       "Engage with your users based on Cake’s records of how your customers interact with their digital collectibles.",
   },
-];
+]; //Lists of collectible boards
 
 const style = {
   position: "absolute" as "absolute",
